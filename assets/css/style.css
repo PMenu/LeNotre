@@ -38,7 +38,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #5ba974;
+  background: #b4b4b4;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -177,8 +177,8 @@ section {
 --------------------------------------------------------------*/
 /* footer section*/
 .footer_section {
-  background-color: rgb(255, 255, 181);
-  color: #666666;
+  background-color: #b4b4b4;
+  color: #ffffff;
   padding: 75px 0 40px 0;
   text-align: center;
 }
@@ -195,7 +195,7 @@ section {
 }
 
 .footer_section p {
-  color: #666666;
+  color: #ffffff;
 }
 
 .footer_section .footer-col {
@@ -214,7 +214,7 @@ section {
 
 .footer_section .footer_contact .contact_link_box a {
   margin: 5px 0;
-  color: #666666;
+  color: #ffffff;
 }
 
 .footer_section .footer_contact .contact_link_box a i {
@@ -230,7 +230,7 @@ section {
   font-weight: bold;
   font-size: 38px;
   line-height: 1;
-  color: #666666;
+  color: #ffffff;
 }
 
 .footer_section .footer_social {
@@ -254,11 +254,11 @@ section {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  color: #5ba974;
+  color: #b4b4b4;
   width: 30px;
   height: 30px;
   border-radius: 100%;
-  background-color: #666666;
+  background-color: #ffffff;
   border-radius: 100%;
   margin: 0 2.5px;
   font-size: 18px;
@@ -274,7 +274,7 @@ section {
 }
 
 .footer_section .footer-info p {
-  color: #666666;
+  color: #ffffff;
   margin: 0;
 }
 
