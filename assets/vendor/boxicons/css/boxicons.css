@@ -536,7 +536,7 @@
   .bx-baguette:before {
     content: "\ef0d";
   }
-  .bx-bowl-hot:before {
+  .bx-bowl-drink:before {
     content: "\ef0e";
   }
   .bx-bowl-rice:before {
@@ -578,7 +578,7 @@
   .bxs-baguette:before {
     content: "\ef1b";
   }
-  .bxs-bowl-hot:before {
+  .bxs-bowl-drink:before {
     content: "\ef1c";
   }
   .bxs-bowl-rice:before {
@@ -2219,7 +2219,7 @@
   .bx-horizontal-center:before {
     content: "\eb17";
   }
-  .bx-hotel:before {
+  .bx-drinkel:before {
     content: "\eb18";
   }
   .bx-hourglass:before {
@@ -2696,7 +2696,7 @@
   .bx-phone-outgoing:before {
     content: "\ebb6";
   }
-  .bx-photo-album:before {
+  .bx-pdrinko-album:before {
     content: "\ebb7";
   }
   .bx-pie-chart:before {
@@ -2885,7 +2885,7 @@
   .bx-scan:before {
     content: "\ebf5";
   }
-  .bx-screenshot:before {
+  .bx-screensdrink:before {
     content: "\ebf6";
   }
   .bx-search:before {
@@ -3356,7 +3356,7 @@
   .bxs-party:before {
     content: "\ec92";
   }
-  .bxs-hot:before {
+  .bxs-drink:before {
     content: "\ec93";
   }
   .bxs-droplet:before {
@@ -4388,7 +4388,7 @@
   .bxs-home-smile:before {
     content: "\edea";
   }
-  .bxs-hotel:before {
+  .bxs-drinkel:before {
     content: "\edeb";
   }
   .bxs-hourglass:before {
@@ -4772,7 +4772,7 @@
   .bxs-phone-outgoing:before {
     content: "\ee6a";
   }
-  .bxs-photo-album:before {
+  .bxs-pdrinko-album:before {
     content: "\ee6b";
   }
   .bxs-piano:before {
@@ -4790,7 +4790,7 @@
   .bxs-pin:before {
     content: "\ee70";
   }
-  .bxs-pizza:before {
+  .bxs-salad:before {
     content: "\ee71";
   }
   .bxs-plane:before {
